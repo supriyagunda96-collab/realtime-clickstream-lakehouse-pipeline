@@ -1,0 +1,72 @@
+[
+  {
+    "event_id": "evt_100001",
+    "user_id": "user_101",
+    "session_id": "sess_5001",
+    "event_type": "page_view",
+    "product_id": "P1001",
+    "device_type": "mobile",
+    "event_time": "2026-05-30T10:15:30",
+    "price": 0
+  },
+  {
+    "event_id": "evt_100002",
+    "user_id": "user_101",
+    "session_id": "sess_5001",
+    "event_type": "product_view",
+    "product_id": "P1001",
+    "device_type": "mobile",
+    "event_time": "2026-05-30T10:16:10",
+    "price": 0
+  },
+  {
+    "event_id": "evt_100003",
+    "user_id": "user_101",
+    "session_id": "sess_5001",
+    "event_type": "add_to_cart",
+    "product_id": "P1001",
+    "device_type": "mobile",
+    "event_time": "2026-05-30T10:17:20",
+    "price": 49.99
+  },
+  {
+    "event_id": "evt_100004",
+    "user_id": "user_101",
+    "session_id": "sess_5001",
+    "event_type": "purchase",
+    "product_id": "P1001",
+    "device_type": "mobile",
+    "event_time": "2026-05-30T10:18:45",
+    "price": 49.99
+  },
+  {
+    "event_id": "evt_100005",
+    "user_id": "user_205",
+    "session_id": "sess_7002",
+    "event_type": "page_view",
+    "product_id": "P1002",
+    "device_type": "desktop",
+    "event_time": "2026-05-30T11:05:10",
+    "price": 0
+  },
+  {
+    "event_id": "evt_100006",
+    "user_id": "user_205",
+    "session_id": "sess_7002",
+    "event_type": "product_view",
+    "product_id": "P1002",
+    "device_type": "desktop",
+    "event_time": "2026-05-30T11:06:05",
+    "price": 0
+  },
+  {
+    "event_id": "evt_100007",
+    "user_id": "user_310",
+    "session_id": "sess_8003",
+    "event_type": "purchase",
+    "product_id": "P1003",
+    "device_type": "tablet",
+    "event_time": "2026-05-30T12:45:15",
+    "price": 129.99
+  }
+]

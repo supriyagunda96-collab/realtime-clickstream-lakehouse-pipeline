@@ -1,0 +1,22 @@
+[
+  {
+    "event_id": "evt_100030",
+    "user_id": "user_600",
+    "session_id": "sess_9500",
+    "event_type": "purchase",
+    "product_id": "P1002",
+    "device_type": "desktop",
+    "event_time": "2026-05-30T15:00:00",
+    "price": 99.99
+  },
+  {
+    "event_id": "evt_100030",
+    "user_id": "user_600",
+    "session_id": "sess_9500",
+    "event_type": "purchase",
+    "product_id": "P1002",
+    "device_type": "desktop",
+    "event_time": "2026-05-30T15:00:00",
+    "price": 99.99
+  }
+]
