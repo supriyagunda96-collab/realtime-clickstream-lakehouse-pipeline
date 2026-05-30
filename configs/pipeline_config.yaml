@@ -1,0 +1,11 @@
+kafka:
+  bootstrap_servers: "localhost:9092"
+  topic: "retail_clickstream_events"
+
+paths:
+  bronze_path: "lakehouse/bronze/clickstream_events"
+  silver_path: "lakehouse/silver/clickstream_events"
+  gold_path: "lakehouse/gold/product_metrics"
+  checkpoint_bronze: "checkpoints/bronze"
+  checkpoint_silver: "checkpoints/silver"
+  checkpoint_gold: "checkpoints/gold"
